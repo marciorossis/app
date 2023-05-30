@@ -1,7 +1,10 @@
 1- API 5.0.0
+
 2- Estilo Conversa (NEW)
+
 3- Correção ao criar conta
 (Agora cliente consegue entrar com senha criada)
+
 4- Alteração CRON JOB para gerar fatura após 5 minutos
 (5 minutos da conta criada)
 

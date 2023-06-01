@@ -18,7 +18,7 @@ Expande display para exibir dados
 \x
 
 SELECT * FROM "Users" WHERE "Users"."companyId" =x;
-UPDATE "Users" SET profile='admin' WHERE id=x;
+UPDATE "Users" SET super='t' WHERE id=X; (Corrigido)
 
 NO LUGAR DO X COLOQUE ID DA COMANY.
 NO LUGAR DO X (UPDATE) COLOQUE ID DO CLIENTE OU SEU.
